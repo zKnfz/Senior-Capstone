@@ -1,2 +1,2 @@
 # Senior-Capstone
-My 2025/2026 seniorrcapstone 
+My 2025/2026 senior capstone 
